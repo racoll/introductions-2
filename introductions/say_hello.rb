@@ -1,3 +1,1 @@
-puts "Hi Rob!"
-
-puts "Hi Nero, cheers!"
+puts "Hi, Eric!"
